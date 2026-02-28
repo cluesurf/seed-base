@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<h3 align='center'>@termsurf/file</h3>
+<h3 align='center'>@cluesurf/seed-base</h3>
 <p align='center'>
   Sample files from across the spectrum
 </p>
@@ -47,11 +47,13 @@ Unless any copyright restrictions come up, all content is distributed under [CC-
 
 <a href="https://creativecommons.org/licenses/by-nd/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" height="48" /></a>
 
-## TermSurf
+## ClueSurf
 
-This is being organized by the folks at [TermSurf](https://term.surf), a
-California-based project for helping humanity master information and
-computation. Find us on [Twitter](https://twitter.com/termsurf),
-[LinkedIn](https://www.linkedin.com/company/termsurf), and
-[Facebook](https://www.facebook.com/termsurf). Check out our other
-[GitHub projects](https://github.com/termsurf) as well!
+Made by [ClueSurf](https://clue.surf), meditating on the universe ¤.
+Follow the work on [YouTube](https://youtube.com/@cluesurf),
+[X](https://x.com/cluesurf),
+[Instagram](https://instagram.com/cluesurf),
+[Substack](https://cluesurf.substack.com),
+[Facebook](https://facebook.com/cluesurf), and
+[LinkedIn](https://linkedin.com/company/cluesurf), and browse more of
+our open-source work here on [GitHub](https://github.com/cluesurf).
